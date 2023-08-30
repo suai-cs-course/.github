@@ -1,12 +1,11 @@
-## Hi there 👋
+## ГУАП, курс "Информатика", осенний семестр 2023
 
-<!--
+Данная организация предназначена для студентов первого курса ГУАП (направление "Прикладная информатика").
 
-**Here are some ideas to get you started:**
+Для того, чтобы стать членом организации, необходимо
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+0. Быть студентом ГУАП
+1. Иметь аккаунт на GitHub
+2. Подать заявку на вступление (репозиторий students (ниже) - вкладка Issues - кнопка New issue)
+
+Заявку на вступление обрабатывает преподаватель. После вступления доступны описание лабораторных работ (репозиторий manual) и сами работы (репозитории labN, где N - номер лабораторной работы).
